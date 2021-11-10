@@ -11,7 +11,7 @@ ___
 - MySQL
 - Data Analysis and Visualisation
 - HTML
-- Cloud (GCP)
+- Cloud (Heroku, GCP)
 - OS (Mac and Windows)
 
 ___
