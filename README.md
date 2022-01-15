@@ -8,6 +8,7 @@ ___
 
 - Python
 - C
+- C++
 - MySQL
 - Data Analysis and Visualisation
 - HTML
