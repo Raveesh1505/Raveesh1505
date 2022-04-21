@@ -9,11 +9,12 @@ ___
 - Python
 - C
 - C++
+- Java
 - MySQL
 - Data Analysis and Visualisation
 - HTML
 - Cloud (Heroku, GCP)
-- OS (Mac and Windows)
+- OS (macOS and Windows)
 
 ___
 
