@@ -10,9 +10,3 @@ ___
 - **Tools:** MySQL, PySpark, Hadoop, Pig, Heroku, Visual Studio Code
 - **Skills:** Big Data, Data Analysis and Visualisation, Map Reduce
 - **Communication:** English, Hindi
-
-___
-
-## Additional info
-
-![Raveesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raveesh1505&show_icons=true&theme=dark)
