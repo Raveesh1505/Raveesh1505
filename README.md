@@ -7,8 +7,8 @@ Good to have you visit me today! I'm an undergradute student pursuing B.Tech in 
 ## Skills and Achievements
 | | |
 | --- | --- |
-|**Languages:** | Python, SQL, Java, Shell, C, C++, PigLatin, HTML, CSS |
-|**Tools:** | Aamazon Web Services (AWS), MySQL/Postgres/SQLite, PySpark, Tableau/PowerBI, Hadoop, Pig, Streamlit, Git, Heroku, Visual Studio Code |
-|**Skills:** | Big Data, Data Analysis and Visualisation, Map Reduce, Reporting, OOPS|
-|**Communication:** | English, Hindi |
-|**Certifications:** | AWS Certified Cloud Practitioner (CLF-C02), Pyther Certified Entry Level Programer (PCEP-30-02) | 
+|**Languages** | Python, SQL, Java, Shell, C, C++, PigLatin, HTML, CSS |
+|**Tools** | Aamazon Web Services (AWS), MySQL/Postgres/SQLite, PySpark, Tableau/PowerBI, Hadoop, Pig, Streamlit, Git, Heroku, Visual Studio Code |
+|**Skills** | Big Data, Data Analysis and Visualisation, Map Reduce, Reporting, OOPS|
+|**Communication** | English, Hindi |
+|**Certifications** | AWS Certified Cloud Practitioner (CLF-C02), Pyther Certified Entry Level Programer (PCEP-30-02) | 
