@@ -1,12 +1,14 @@
 # Hi, My name is Raveesh Yadav 👋
 
-I am an undergraduate student pursuing my **Bachelors of Technology (B.Tech) in Computer Science degree with specialisation in Data Science** from [**The NorthCap University**](https://www.ncuindia.edu), Gurugram, India. I am aspirant Data Engineer who would love to work, learn and rise throughout my career! As part of my hobbies, I am an aviation enthusiast and play volleyball.
+Good to have you visit me today! I'm an undergradute student pursuing B.Tech in computer science and specialising in Data Science. You'll find me as a hardworking and goal oriented person with fairly decent sense of humour. My skil stack and related achievements can be found below. Feel free to message me or connect over my social handles!
 
-___
+----
 
-## Skills
-
-- **Languages:** Python, SQL, Java, C, C++, PigLatin
-- **Tools:** MySQL, PySpark, Hadoop, Pig, Heroku, Visual Studio Code
-- **Skills:** Big Data, Data Analysis and Visualisation, Map Reduce
-- **Communication:** English, Hindi
+## Skills and Achievements
+| | |
+| --- | --- |
+|**Languages:** | Python, SQL, Java, Shell, C, C++, PigLatin, HTML, CSS |
+|**Tools:** | Aamazon Web Services (AWS), MySQL/Postgres/SQLite, PySpark, Tableau/PowerBI, Hadoop, Pig, Streamlit, Git, Heroku, Visual Studio Code |
+|**Skills:** | Big Data, Data Analysis and Visualisation, Map Reduce, Reporting, OOPS|
+|**Communication:** | English, Hindi |
+|**Certifications:** | AWS Certified Cloud Practitioner (CLF-C02), Pyther Certified Entry Level Programer (PCEP-30-02) | 
